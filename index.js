@@ -23,6 +23,17 @@ var question=[
   {
     ques: "who won the premier league most times? ",
     ans: "manchester united	"
+    
+  },
+   {
+    ques: "who won the Laliga most times? ",
+    ans: "real madrid"
+    
+  },
+   {
+    ques: "How many times did Real Madrid win the laliga? ",
+    ans: "34"
+    
   },
 
 ];
